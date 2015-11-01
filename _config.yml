@@ -1,0 +1,11 @@
+# Site settings
+title: Noran Energy
+email: info@domain.com
+short_description: ajklsn;asjknalsdjkn
+description: |
+  Noran Energy is an Oil and Gas Engineering Management Company providing cost effective and innovative development solutions to the Oil and Gas sector. We primarily focus on providing solutions to allow operators to commercialize their marginal fields, but we can apply the same skill set to rejuvenate existing fields.
+baseurl: ""
+url: "http://noranenergy.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
