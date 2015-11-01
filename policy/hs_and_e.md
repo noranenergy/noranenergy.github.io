@@ -1,10 +1,8 @@
 ---
 
 layout: default
-
+title: HS&E Policy
 ---
-
-# HS&E Policy
 
 Noran Energy is committed to operating responsibly and will never knowingly compromise our health, safety, environmental or security standards to meet our operational objectives. Our goals are to ensure the safety of everyone involved with our operations and to protect the environment.
 

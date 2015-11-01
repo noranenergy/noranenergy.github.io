@@ -1,10 +1,9 @@
 ---
 
 layout: default
+title: Business Ethics Policy
 
 ---
-
-# Business Ethics Policy
 
 This policy statement supports Noran Energy’s Global Code of Conduct.
 

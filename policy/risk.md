@@ -1,10 +1,9 @@
 ---
 
 layout: default
+title: Risk Management Policy
 
 ---
-
-# Risk Management Policy
 
 Noran Energy is committed to continuously improve its approach to risk management across the organization. The objectives of Risk Management in Noran Energy are to ensure:
 

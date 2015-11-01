@@ -1,10 +1,9 @@
 ---
 
 layout: default
+title: Corporate Responsibility Policy
 
 ---
-
-# Corporate Responsibility Policy
 
 Noran Energy's Corporate Responsibility Policy is owned and implemented by the Board. It is supported directly by a number of core Noran Energy policies for which the Executive Committee are accountable according to area of responsibility. These policies cover our global code of conduct, human rights, human resources, health, safety and environment and community investment.
 

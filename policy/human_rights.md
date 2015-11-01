@@ -1,10 +1,9 @@
 ---
 
 layout: default
+title: Human Rights Policy
 
 ---
-
-# Human Rights Policy
 
 This policy statement supports Noran Energy’s Corporate Responsibility policy.
 

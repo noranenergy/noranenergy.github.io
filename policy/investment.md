@@ -1,10 +1,9 @@
 ---
 
 layout: default
+title: Community Investment Policy
 
 ---
-
-# Community Investment Policy
 
 This policy statement supports Noran Energy's over-arching Corporate Responsibility Policy.
 
