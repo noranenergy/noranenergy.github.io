@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Policy
+title: Policies
 subtitle: Our Policies
 
 --- 

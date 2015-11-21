@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Clive Bjoru-Swatton
+title: Clive Bjøru-Swatton
 subtitle: Operations Director
 subsubtitle: HNC., BSc., MAPM
 ---
