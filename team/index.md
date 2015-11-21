@@ -6,7 +6,8 @@ subtitle: Our team of directors
 
 ---
 
-   
+- [Adrian Hall](adrian.html)
+    - Managing Director
 - [Clive Bjoru-Swatton](clive.html)
     - Operations Director
 - [Grant Knight](grant.html)

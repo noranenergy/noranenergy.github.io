@@ -8,7 +8,7 @@ title: 'Drilling & Completions'
 
 Drilling and Well Completion services within Noran Energy includes:
 
-- Well Engineering &amp; Management  
+- Well Engineering & Management  
 - Drilling & Completions Engineering 
 - Well Test Engineering 
 - Drilling HSEQ Advisory 
@@ -17,7 +17,7 @@ Drilling and Well Completion services within Noran Energy includes:
 
 <img src="/images/drilling_2.png" style="float:right; max-width:40%;" />
 
-Within our Production Technology experties we manage:
+Within our Production Technology expertise we manage:
  
 - Artificial lift design
 - Production chemistry

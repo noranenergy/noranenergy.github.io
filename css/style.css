@@ -12,6 +12,8 @@
 
 	body {
 		background: #fff;
+		margin: 0 auto;
+		max-width: 1000px;
 	}
 
 	body, input, select, textarea {
@@ -134,6 +136,10 @@
 			display: block;
 			line-height: 1.75em;
 			padding: 1em 1.5em;
+		}
+
+		.breadcrumb{
+			padding: 1em;
 		}
 
 	.align-left {
@@ -845,7 +851,7 @@
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0;
+		padding: 1em 0 4em 0;
 	}
 
 		.wrapper.style1 {
@@ -894,11 +900,11 @@
 		color: #555f66;
 		cursor: default;
 		height: 3em;
-		left: 0;
+/*		left: 0;*/
 		line-height: 3em;
 		position: fixed;
 		top: 0;
-		width: 100%;
+		width: 1000px;
 		z-index: 10000;
 		box-shadow: 0 0 0.1em 0 rgba(0, 0, 0, 0.25);
 	}

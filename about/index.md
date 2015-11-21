@@ -6,8 +6,7 @@ subtitle: The Company
 
 ---
 
-Noran Energy Limited is a BVI registered company with registration No. 1892131. 
-Noran Energy operates from the Norwegian Oil and Gas capital, Stavanger.
+Noran Energy Limited is a BVI registered company with registration No. 1892131. Noran Energy operates from the Norwegian Oil and Gas capital, Stavanger.
 
 Our business model is to generate value by using our core multi-discipline team combined with their diverse entrepreneurial skills to provide innovative Oil and Gas development and production solutions. This allows operators to:
 

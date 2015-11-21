@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    
+    {% include /head.html %}
+
+	<body id="top">
+
+        {% include /header.html %}
+
+          <section id="main" class="wrapper style1">
+              <header class="major">
+                  <h2>{{page.title}}</h2>
+                  <h3>{{page.subtitle}}</h3>
+                  <p>{{page.subsubtitle}}</p>
+              </header>
+              <div class="container">
+                  <section>
+              {{ content }}
+                </section>
+
+          </div>
+        </section>
+
+        {% include /footer.html %}
+
+    </body>
+
+</html>
