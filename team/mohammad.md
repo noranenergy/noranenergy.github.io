@@ -13,6 +13,6 @@ Mohammad holds BEng and MSc Degrees in Naval Architecture from Amir Kabir Univer
 
 As the Floating Structures Team Leader for Lloyds Register in the UK, he was a contributing author to the “Lloyds Register Rules and Regulation for Floating Offshore Installations at a Fixed Location” and represented Lloyds Register in Joint Industry Projects (JIPs).
 
-He has more than 10 years offshore oil & gas experience working on oil and gas field developments offshore UK, Norway, Brazil, Australia & Timor Sea.
+During his professional career since 2002 he has worked on oil and gas field developments offshore UK, Norway, Brazil, Australia & Timor Sea.
 
 His experiences include BlueWater Glas Dowr FPSO redeployment to the Timor Sea, BP Quad 204 new built FPSO for the Schiehallion filed in West of Shetlands, Maersk Curlew FPSO and North Sea Producer FPSO life extensions in the North Sea, Shell FLNG for Western Australia, Maersk Peregrino FPSO conversion for Brazil and development of the Vette field in the Norwegian Continental Shelf for Premier Oil.

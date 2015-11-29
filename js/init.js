@@ -16,7 +16,7 @@
 				global: {
 					range: '*',
 					href: '{{ site.baseurl }}/css/style.css',
-					containers: 1000,
+					containers: 800,
 					grid: {
 						gutters: {
 							vertical: '4em',
@@ -29,7 +29,7 @@
 				xlarge: {
 					range: '-1680',
 					href: '{{ site.baseurl }}/css/style-xlarge.css',
-					containers: 1000
+					containers: 800
 				},
 
 			// Large.

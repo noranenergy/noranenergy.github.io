@@ -10,7 +10,7 @@ subsubtitle: MEng., MBA
 
 Grant Knight holds a 1st Class MEng in Electrical & Electronic Engineering from the University of Edinburgh. His career began at ExxonMobil where he completed their prestigious Drilling Engineering training scheme and gained a corporate MBA from the London Business School.
 
-Over the last thirteen years he has gained highly varied Well Engineering experience, drilling and completing wells in the Far East, West Africa, The Middle East and latterly in Norway.
+During his professional career since 2002 he has gained highly varied Well Engineering experience, drilling and completing wells in the Far East, West Africa, The Middle East and latterly in Norway.
 
 Areas of specific expertise include Managed Pressure Drilling, geosteering, fractured carbonates, sour gas wells, extended reach drilling, well abandonment planning and remote locations. Regional areas of focused knowledge include West Africa, Qatar, Kurdistan, Iran and Norway.
 

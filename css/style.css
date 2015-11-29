@@ -13,7 +13,7 @@
 	body {
 		background: #fff;
 		margin: 0 auto;
-		max-width: 1000px;
+		max-width: 800px;
 	}
 
 	body, input, select, textarea {
@@ -904,7 +904,7 @@
 		line-height: 3em;
 		position: fixed;
 		top: 0;
-		width: 1000px;
+		width: 800px;
 		z-index: 10000;
 		box-shadow: 0 0 0.1em 0 rgba(0, 0, 0, 0.25);
 	}
@@ -944,7 +944,7 @@
 				#header nav > ul > li {
 					border-radius: 6px;
 					display: inline-block;
-					margin-left: 2em;
+					margin-left: 1em;
 					padding-left: 0;
 				}
 
@@ -1001,6 +1001,7 @@
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
+		padding: 6em 0;
 	}
 
 		#banner:before {
@@ -1099,4 +1100,27 @@
 
 		#footer .icons a {
 			color: #bbb;
+		}
+
+.team_members{
+
+	list-style-type: none;
+	padding: 0;
+	margin: 0 auto;
+	columns: 2;
+	-webkit-columns: 2;
+	-moz-columns: 2;
+	 text-align: center;
+}
+
+		.team_members img{
+			width: 100px;
+		}
+		.team_members .name{
+			font-weight: bold;
+			display: block;
+			 
+		}
+		.team_members .title{
+			display: block;
 		}
