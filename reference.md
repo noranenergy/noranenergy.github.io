@@ -13,4 +13,4 @@ Several concepts and combinations of drilling, well completion, subsea and produ
 
 Successful delivery of this project will be a testimonial to innovative thinking and comprehensive skills of our team.
 
-Noran Energy is looking forward to harnessing these skills further, in development of other challenging reservoirs globally. We strive to achieve safest and the most cost effective solution.
+Noran Energy is looking forward to harnessing these skills further, in development of other challenging reservoirs globally. We strive to achieve the safest and most cost effective solution.
